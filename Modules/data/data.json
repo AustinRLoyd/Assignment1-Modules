@@ -1,0 +1,13 @@
+[
+  {
+    "id": 0,
+    "customerName": "Austin Loyd",
+    "phoneNumber": "123-456-7890",
+    "address": "Example Address",
+    "loanAmount": 250,
+    "interest": 0.06,
+    "loanTermYears": 48,
+    "loanType": "Loan Type",
+    "description": "Description"
+  }
+]
